@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#0B0F14" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <title>High Mileage Hybrid</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="topbar">
+      <button class="brand" data-route="home" aria-label="Home">
+        <img src="assets/high-mileage-logo.png" alt="High Mileage logo" />
+        <span><b>HIGH MILEAGE</b><small>HYBRID 1.1 · PILOT</small></span>
+      </button>
+      <button class="icon-btn" id="settingsBtn" aria-label="Settings">⚙</button>
+    </header>
+
+    <main id="view" class="view" aria-live="polite"></main>
+
+    <nav class="bottom-nav" aria-label="Primary navigation">
+      <button data-route="home" class="nav-btn active"><span>⌂</span><small>Home</small></button>
+      <button data-route="progress" class="nav-btn"><span>▥</span><small>Progress</small></button>
+      <button data-route="feedback" class="nav-btn"><span>✎</span><small>Feedback</small></button>
+      <button data-route="guide" class="nav-btn"><span>?</span><small>Guide</small></button>
+    </nav>
+  </div>
+
+  <dialog id="exerciseModal" class="modal"></dialog>
+  <dialog id="settingsModal" class="modal"></dialog>
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js" defer></script>
+</body>
+</html>

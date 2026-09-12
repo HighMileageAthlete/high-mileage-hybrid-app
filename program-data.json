@@ -1,0 +1,4386 @@
+{
+  "program": "High Mileage Hybrid 1.1",
+  "tagline": "Once an athlete. Always an athlete.",
+  "days": [
+    {
+      "id": "day-1---upper",
+      "sheet": "Day 1 - Upper",
+      "short": "Day 1",
+      "title": "Upper Power / Chest + Back",
+      "weeks": {
+        "1": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "2": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "3": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "4": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "5": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "6": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "7": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "8": [
+          {
+            "exercise": "Band Pull-Apart",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Shoulders down; move shoulder blades.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Band External Rotation",
+            "block": "Prep",
+            "target": "2 \u00d7 12",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbow stays near side.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Push-Up",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Elbows straight; move scapulae.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Rotate upper back, not low back.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Chest Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Reset every rep; stop if speed drops.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw/Slam",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Use a ball light enough to accelerate.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Incline Barbell Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Ramp up first; no grinders.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Pull-Up / Heavy Pulldown",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Drive elbows toward ribs.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine Chest Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "3-0-1",
+            "rest": "2 min",
+            "cue": "0 RIR. Technical failure; shoulder blades set.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Chest-Supported Row",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0 RIR. Chest stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "3-sec eccentric",
+            "rest": "90 sec",
+            "cue": "0 RIR. Wide hugging arc; fixed elbow bend.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Pullover",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0\u20131 RIR. Ribs down; drive upper arms down.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 \u00d7 30\u201340 yd",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "Heavy / crisp. Tall posture; no swinging.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "day-2---engine",
+      "sheet": "Day 2 - Engine",
+      "short": "Day 2",
+      "title": "Engine + Recovery",
+      "weeks": {
+        "1": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ],
+        "2": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ],
+        "3": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ],
+        "4": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ],
+        "5": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ],
+        "6": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ],
+        "7": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ],
+        "8": [
+          {
+            "exercise": "Bike / Rower / Incline Walk",
+            "block": "ENDURE",
+            "target": "30\u201340 min",
+            "tempo": "Steady",
+            "rest": "\u2014",
+            "cue": "Zone 2. Conversational pace; smooth mechanics.",
+            "progression": "Progress repeatable output, not load"
+          },
+          {
+            "exercise": "Hip Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. No forcing range.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "T-Spine / Shoulder Mobility",
+            "block": "RECOVER",
+            "target": "5 min",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Finish better, not fatigued.",
+            "progression": "No load progression"
+          }
+        ]
+      }
+    },
+    {
+      "id": "day-3---lower",
+      "sheet": "Day 3 - Lower",
+      "short": "Day 3",
+      "title": "Lower Power + Strength",
+      "weeks": {
+        "1": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "2": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "3": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "4": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "5": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "6": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "7": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ],
+        "8": [
+          {
+            "exercise": "90/90 Hip Rotation",
+            "block": "Prep",
+            "target": "6/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Move from hips.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Adductor Rock-Back",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Neutral spine.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Walking Lunge + Rotation",
+            "block": "Prep",
+            "target": "8/side",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Control knee/pelvis before rotating.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Glute Bridge",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Pause top",
+            "rest": "30 sec",
+            "cue": "Easy. Finish with glutes.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Pogo / Ankling Prep",
+            "block": "Prep",
+            "target": "2 \u00d7 15\u201320 sec",
+            "tempo": "Elastic",
+            "rest": "45 sec",
+            "cue": "Crisp. Small quick contacts.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Countermovement Jump / Box Jump",
+            "block": "POWER",
+            "target": "4 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max quality. Stick landing; full reset.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Scoop Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3/side",
+            "tempo": "Explosive",
+            "rest": "60\u201390 sec",
+            "cue": "Max velocity. Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Back Squat / Safety-Bar Squat",
+            "block": "STRENGTH",
+            "target": "3 \u00d7 4\u20136",
+            "tempo": "Controlled",
+            "rest": "2\u20133 min",
+            "cue": "1\u20132 RIR. Brace; knees track toes.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Romanian Deadlift",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 6\u20138",
+            "tempo": "3-sec eccentric",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. Hips back; weights close.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Leg Press",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "0\u20131 RIR. Pelvis stays on pad.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Foot Elevated Split Squat",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201310/side",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "1 RIR. Front leg does the work.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Seated / Lying Leg Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Hips anchored.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Standing Calf Raise",
+            "block": "BUILD",
+            "target": "2 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "1 RIR. Full comfortable ROM; no bouncing.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Heavy Sled Push",
+            "block": "FUNCTION",
+            "target": "4 \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "60\u201390 sec",
+            "cue": "Repeatable. Short forceful steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Suitcase Carry",
+            "block": "FUNCTION",
+            "target": "2 \u00d7 30\u201340 yd/side",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "Heavy / crisp. Resist lateral lean.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "day-4---shld-arms",
+      "sheet": "Day 4 - Shld Arms",
+      "short": "Day 4",
+      "title": "Shoulders + Arms",
+      "weeks": {
+        "1": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Establish baseline load"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Establish baseline load"
+          }
+        ],
+        "2": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Waiting for prior workout"
+          }
+        ],
+        "3": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Waiting for prior workout"
+          }
+        ],
+        "4": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Waiting for prior workout"
+          }
+        ],
+        "5": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Waiting for prior workout"
+          }
+        ],
+        "6": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Waiting for prior workout"
+          }
+        ],
+        "7": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Waiting for prior workout"
+          }
+        ],
+        "8": [
+          {
+            "exercise": "Band Shoulder Series",
+            "block": "Prep",
+            "target": "2 rounds",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Easy. Prepare, don't fatigue.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Face Pull",
+            "block": "Prep",
+            "target": "2 \u00d7 15",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Hands toward temples.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Scapular Wall Slide",
+            "block": "Prep",
+            "target": "2 \u00d7 10",
+            "tempo": "Controlled",
+            "rest": "30 sec",
+            "cue": "Easy. Ribs down.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Overhead Throw",
+            "block": "POWER",
+            "target": "3 \u00d7 3",
+            "tempo": "Explosive",
+            "rest": "60 sec",
+            "cue": "Max velocity. Reset each rep.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Explosive Cable Row",
+            "block": "POWER",
+            "target": "3 \u00d7 4",
+            "tempo": "Fast / controlled return",
+            "rest": "60 sec",
+            "cue": "Max speed. Moderate load only.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Seated DB Shoulder Press",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No excessive back arch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Weighted Chin-Up",
+            "block": "STRENGTH",
+            "target": "2 \u00d7 5\u20137",
+            "tempo": "Controlled",
+            "rest": "2 min",
+            "cue": "1\u20132 RIR. No kipping.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Machine / DB Lateral Raise",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60\u201390 sec",
+            "cue": "0 RIR. Lead with elbows.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Rear-Delt Fly",
+            "block": "BUILD",
+            "target": "1 \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0\u20131 RIR. No shrugging.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "EZ-Bar Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Torso stays quiet.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Incline DB Curl",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Control full stretch.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Cable Pressdown",
+            "block": "BUILD",
+            "target": "1 \u00d7 6\u201310",
+            "tempo": "Controlled",
+            "rest": "90 sec",
+            "cue": "0 RIR. Elbows pinned.",
+            "progression": "Waiting for prior workout"
+          },
+          {
+            "exercise": "Overhead Cable Extension",
+            "block": "BUILD",
+            "target": "1 \u00d7 8\u201312",
+            "tempo": "Controlled",
+            "rest": "60 sec",
+            "cue": "0 RIR. Brace trunk.",
+            "progression": "Waiting for prior workout"
+          }
+        ]
+      }
+    },
+    {
+      "id": "day-5---performance",
+      "sheet": "Day 5 - Performance",
+      "short": "Day 5",
+      "title": "High Mileage Performance",
+      "weeks": {
+        "1": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ],
+        "2": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ],
+        "3": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ],
+        "4": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ],
+        "5": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ],
+        "6": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ],
+        "7": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ],
+        "8": [
+          {
+            "exercise": "Dynamic Athletic Warm-Up",
+            "block": "Prep",
+            "target": "5\u20138 min",
+            "tempo": "Dynamic",
+            "rest": "\u2014",
+            "cue": "Easy. Finish warm and sharp.",
+            "progression": "No load progression"
+          },
+          {
+            "exercise": "Medicine-Ball Rotational Throw",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 4/side",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Max velocity. Force from ground through trunk.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Battle-Rope Power Slam",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 6",
+            "tempo": "Explosive",
+            "rest": "\u2014",
+            "cue": "Powerful. Reset enough to keep power.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Kettlebell Swing",
+            "block": "POWER",
+            "target": "3 rounds \u00d7 8",
+            "tempo": "Explosive",
+            "rest": "90 sec/round",
+            "cue": "Crisp. Hip hinge, not squat.",
+            "progression": "Quality-based \u2014 no auto load"
+          },
+          {
+            "exercise": "Farmer Carry",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 40 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Heavy. Tall posture.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Sled Push",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Powerful",
+            "rest": "\u2014",
+            "cue": "Crisp. Constant pressure.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Backward Sled Drag",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 20 yd",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "Repeatable. Smooth backward steps.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Push-Up",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201315",
+            "tempo": "Controlled",
+            "rest": "\u2014",
+            "cue": "2 RIR. Body moves as one unit.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "TRX / Inverted Row",
+            "block": "FUNCTION",
+            "target": "3 rounds \u00d7 10\u201312",
+            "tempo": "Controlled",
+            "rest": "2 min/round",
+            "cue": "2 RIR. Rigid body; pull chest to handles.",
+            "progression": "Manual \u2014 progress when quality stays crisp"
+          },
+          {
+            "exercise": "Assault Bike / Rower",
+            "block": "ENDURE",
+            "target": "10 rounds",
+            "tempo": "15 sec hard / 45 sec easy",
+            "rest": "As prescribed",
+            "cue": "Repeatable. Keep output consistent across rounds.",
+            "progression": "Progress repeatable output, not load"
+          }
+        ]
+      }
+    }
+  ],
+  "guide": {
+    "Band Pull-Apart": {
+      "how": "Hold band at shoulder height; pull hands apart until arms align with torso; return slowly.",
+      "cue": "Shoulders down; move shoulder blades.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Band External Rotation": {
+      "how": "Elbow bent ~90\u00b0 near side; rotate forearm outward against light band; return slowly.",
+      "cue": "Elbow stays near side.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Scapular Push-Up": {
+      "how": "In plank, keep elbows straight; let shoulder blades come together, then push floor away.",
+      "cue": "Elbows straight; move scapulae.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "T-Spine Rotation": {
+      "how": "Rotate through upper back while hips stay quiet; follow hand with eyes.",
+      "cue": "Rotate upper back, not low back.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Medicine-Ball Chest Throw": {
+      "how": "Brace and throw ball straight forward from chest with maximum acceleration; reset each rep.",
+      "cue": "Reset every rep; stop if speed drops.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "POWER"
+    },
+    "Medicine-Ball Overhead Throw/Slam": {
+      "how": "Brace, raise ball overhead, then throw/slam explosively without overextending low back.",
+      "cue": "Use a ball light enough to accelerate.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "POWER"
+    },
+    "Incline Barbell Press": {
+      "how": "Set bench 20\u201335\u00b0; shoulder blades back/down; lower to upper chest; press up and slightly back.",
+      "cue": "Ramp up first; no grinders.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "STRENGTH"
+    },
+    "Weighted Pull-Up / Heavy Pulldown": {
+      "how": "From controlled stretch, drive elbows down toward ribs; lower under control.",
+      "cue": "Drive elbows toward ribs.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "STRENGTH"
+    },
+    "Machine Chest Press": {
+      "how": "Seat handles at mid-chest; brace; press nearly straight; lower slowly to comfortable stretch.",
+      "cue": "Technical failure; shoulder blades set.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Chest-Supported Row": {
+      "how": "Keep chest on pad; pull elbows toward lower ribs; squeeze and lower fully.",
+      "cue": "Chest stays on pad.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Cable Fly": {
+      "how": "With slight fixed elbow bend, bring arms together in a wide hugging arc; return to comfortable stretch.",
+      "cue": "Wide hugging arc; fixed elbow bend.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Pullover": {
+      "how": "Keep ribs down; move arms from overhead toward torso using lats; return slowly.",
+      "cue": "Ribs down; drive upper arms down.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Heavy Farmer Carry": {
+      "how": "Pick up with strong hinge; stand tall and walk controlled with weights at sides.",
+      "cue": "Tall posture; no swinging.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "Bike / Rower / Incline Walk": {
+      "how": "Maintain sustainable conversational Zone 2 pace with smooth mechanics.",
+      "cue": "Conversational pace; smooth mechanics.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "ENDURE"
+    },
+    "Hip Mobility": {
+      "how": "Use controlled hip ranges appropriate to athlete; avoid forcing end range.",
+      "cue": "No forcing range.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "RECOVER"
+    },
+    "T-Spine / Shoulder Mobility": {
+      "how": "Move upper back and shoulders through comfortable controlled ranges; do not fatigue.",
+      "cue": "Finish better, not fatigued.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "RECOVER"
+    },
+    "90/90 Hip Rotation": {
+      "how": "Sit with knees bent ~90\u00b0 and rotate knees side-to-side under control.",
+      "cue": "Move from hips.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Adductor Rock-Back": {
+      "how": "From quadruped with one leg extended sideways, rock hips back with neutral spine.",
+      "cue": "Neutral spine.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Walking Lunge + Rotation": {
+      "how": "Step into controlled lunge; stabilize, rotate torso toward front leg, return and step through.",
+      "cue": "Control knee/pelvis before rotating.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Glute Bridge": {
+      "how": "Feet planted; brace; squeeze glutes to lift hips; pause and lower without arching low back.",
+      "cue": "Finish with glutes.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Pogo / Ankling Prep": {
+      "how": "Perform small quick ankle-dominant hops with minimal knee bend and quiet contacts.",
+      "cue": "Small quick contacts.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Countermovement Jump / Box Jump": {
+      "how": "Dip quickly, jump with max intent, land softly and stabilize; fully reset.",
+      "cue": "Stick landing; full reset.",
+      "avoid": "Excessive box height, valgus landing, fatigue reps.",
+      "quality": "POWER"
+    },
+    "Medicine-Ball Rotational Scoop Throw": {
+      "how": "Load rear hip and rotate explosively to throw ball into wall; reset.",
+      "cue": "Sequence ground \u2192 hips \u2192 trunk \u2192 arms.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "POWER"
+    },
+    "Back Squat / Safety-Bar Squat": {
+      "how": "Brace, descend between hips/knees with whole foot down; drive up maintaining knee/torso position.",
+      "cue": "Brace; knees track toes.",
+      "avoid": "Loss of brace, knee collapse, grinding beyond RIR.",
+      "quality": "STRENGTH"
+    },
+    "Romanian Deadlift": {
+      "how": "Soft knees; push hips back with weight close to legs; stop at strong hamstring tension; stand tall.",
+      "cue": "Hips back; weights close.",
+      "avoid": "Rounding back, squatting the hinge, reaching for floor.",
+      "quality": "STRENGTH"
+    },
+    "Leg Press": {
+      "how": "Keep pelvis on pad; lower sled to controlled depth; press through whole foot.",
+      "cue": "Pelvis stays on pad.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Rear-Foot Elevated Split Squat": {
+      "how": "Rear foot elevated; lower rear knee while front leg controls; drive through front foot.",
+      "cue": "Front leg does the work.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Seated / Lying Leg Curl": {
+      "how": "Align knee with machine pivot; curl heel toward glute; squeeze and return slowly.",
+      "cue": "Hips anchored.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Standing Calf Raise": {
+      "how": "Lower heel to comfortable stretch; rise through forefoot; pause; lower without bouncing.",
+      "cue": "Full comfortable ROM; no bouncing.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Heavy Sled Push": {
+      "how": "Brace into handles and drive ground backward with short powerful steps.",
+      "cue": "Short forceful steps.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "Suitcase Carry": {
+      "how": "Carry one heavy weight at side while resisting any lateral lean.",
+      "cue": "Resist lateral lean.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "Band Shoulder Series": {
+      "how": "Use light-band pull-aparts/external rotations/overhead patterns as preparation, not fatigue.",
+      "cue": "Prepare, don't fatigue.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Face Pull": {
+      "how": "Pull rope toward face while separating ends; finish hands near temples.",
+      "cue": "Hands toward temples.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Scapular Wall Slide": {
+      "how": "Ribs down; slide forearms upward while shoulder blades rotate naturally.",
+      "cue": "Ribs down.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Medicine-Ball Overhead Throw": {
+      "how": "Brace and throw ball explosively from overhead; reset completely.",
+      "cue": "Reset each rep.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "POWER"
+    },
+    "Explosive Cable Row": {
+      "how": "Use moderate load; row fast toward ribs, then return under control.",
+      "cue": "Moderate load only.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "POWER"
+    },
+    "Seated DB Shoulder Press": {
+      "how": "Sit supported; brace; press dumbbells overhead; lower to comfortable depth.",
+      "cue": "No excessive back arch.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "STRENGTH"
+    },
+    "Weighted Chin-Up": {
+      "how": "From controlled hang, drive elbows down until chin clears bar; lower without kipping.",
+      "cue": "No kipping.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "STRENGTH"
+    },
+    "Machine / DB Lateral Raise": {
+      "how": "Raise upper arms to roughly shoulder height with soft elbows; lower slowly.",
+      "cue": "Lead with elbows.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Rear-Delt Fly": {
+      "how": "Chest supported if possible; open arms wide with soft elbows; return under control.",
+      "cue": "No shrugging.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "EZ-Bar Curl": {
+      "how": "Keep upper arms near torso; curl without hip drive; lower under control.",
+      "cue": "Torso stays quiet.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Incline DB Curl": {
+      "how": "Arms hang from incline bench; curl without upper-arm swing; control full stretch.",
+      "cue": "Control full stretch.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Cable Pressdown": {
+      "how": "Elbows pinned; extend arms fully; squeeze triceps; return under control.",
+      "cue": "Elbows pinned.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Overhead Cable Extension": {
+      "how": "Upper arms overhead; bend and extend elbows while trunk remains braced.",
+      "cue": "Brace trunk.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "BUILD"
+    },
+    "Dynamic Athletic Warm-Up": {
+      "how": "Progress through dynamic mobility and movement drills, gradually increasing speed/range.",
+      "cue": "Finish warm and sharp.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "Prep"
+    },
+    "Medicine-Ball Rotational Throw": {
+      "how": "Load hips, rotate from ground up and throw into wall with maximum speed.",
+      "cue": "Force from ground through trunk.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "POWER"
+    },
+    "Battle-Rope Power Slam": {
+      "how": "Raise ropes and drive them forcefully into floor while maintaining braced athletic posture.",
+      "cue": "Reset enough to keep power.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "POWER"
+    },
+    "Kettlebell Swing": {
+      "how": "Hike bell into hinge; snap hips to propel it; guide it back into next hinge.",
+      "cue": "Hip hinge, not squat.",
+      "avoid": "Squatting the swing, arm lifting, lumbar hyperextension.",
+      "quality": "POWER"
+    },
+    "Farmer Carry": {
+      "how": "Carry heavy implements at sides with tall posture, stable trunk and controlled steps.",
+      "cue": "Tall posture.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "Sled Push": {
+      "how": "Lean into sled and drive with rhythmic powerful steps while maintaining constant pressure.",
+      "cue": "Constant pressure.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "Backward Sled Drag": {
+      "how": "Face sled and walk backward with smooth controlled steps and tall torso.",
+      "cue": "Smooth backward steps.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "Push-Up": {
+      "how": "Rigid head-to-heel line; lower chest under control; press floor away.",
+      "cue": "Body moves as one unit.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "TRX / Inverted Row": {
+      "how": "Keep body rigid; pull chest toward handles/bar; lower under control.",
+      "cue": "Rigid body; pull chest to handles.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "FUNCTION"
+    },
+    "Assault Bike / Rower": {
+      "how": "Alternate hard repeatable work with prescribed recovery; avoid blowing up on first interval.",
+      "cue": "Keep output consistent across rounds.",
+      "avoid": "Momentum, forced range, or technique breakdown.",
+      "quality": "ENDURE"
+    }
+  },
+  "progression": {
+    "phases": [
+      {
+        "name": "FOUNDATION",
+        "weeks": [
+          1,
+          2
+        ],
+        "emphasis": "Technique, baseline, movement quality"
+      },
+      {
+        "name": "BUILD",
+        "weeks": [
+          3,
+          4
+        ],
+        "emphasis": "Hypertrophy + overload"
+      },
+      {
+        "name": "STRENGTH",
+        "weeks": [
+          5,
+          6
+        ],
+        "emphasis": "Force production"
+      },
+      {
+        "name": "POWER",
+        "weeks": [
+          7,
+          8
+        ],
+        "emphasis": "Convert strength to velocity"
+      }
+    ],
+    "settings": {
+      "strengthIncrease": 0.025,
+      "buildIncrease": 0.025,
+      "highRirIncrease": 0.05,
+      "rounding": 5,
+      "strengthRirMin": 1,
+      "strengthRirMax": 2,
+      "buildRirMax": 1,
+      "missFloorReduction": 0.025
+    }
+  }
+}
